@@ -1,9 +1,9 @@
-logoText = "Trophy girl"
+# logoText = "足るを知る"
 logoType = "short" # long, short
-description = "トロフィーガール. エビデンスとコスパを求める美容と健康. "
+description = "大家、株、不動産、ライフハック"
 custom_css = []
 custom_js = []
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
@@ -11,10 +11,10 @@ themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHomeFeed = ["about", "gallery", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
 viewportSize = "normal" # widest, wider, wide, normal, narrow
-enableUiAnimation = true
+enableUiAnimation = false
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
@@ -60,9 +60,9 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "トロちゃん"
-# email = "zzossig@gmail.com"
-whoami = "美容、健康ヲタク。特に顔の筋トレ。自分を磨く手習い大好き。今はペン字、楽器、ガーデニング"
+myname = "矢倉 まり"
+# email = "~~@gmail.com"
+whoami = "2021年から大家。ITエンジニア。20代。"
 bioImageUrl = ""
 useGravatar = false
 location = "Tokyo, Japan"
@@ -89,11 +89,11 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = true
-showFeedLinks = true
-showSocialLinks = true
-enableLangChange = true
-enableThemeChange = true
+showPoweredBy = false
+showFeedLinks = false
+showSocialLinks = false
+enableLangChange = false
+enableThemeChange = false
 
 # service
 googleTagManager = "" # GTM-XXXXXX
@@ -161,11 +161,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  # email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  # facebook = "http://example.org/"
+  twitter = "https://twitter.com/yagura_mari"
+  # github = "https://github.com/zzossig/hugo-theme-zzo"
   stack-overflow = ""
   instagram = ""
   google-plus = ""

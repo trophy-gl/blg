@@ -1,8 +1,8 @@
-baseURL = "https://trophy-gl.github.io"
-title = "トロフィーガール"
+baseURL = "https://yagura-mari.github.io"
+title = "足るを知る"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 publishDir = "docs"
