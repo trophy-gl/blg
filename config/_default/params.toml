@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "Trophy girl"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "トロフィーガール. エビデンスとコスパを求める美容と健康. "
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -60,14 +60,14 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "トロちゃん"
+# email = "zzossig@gmail.com"
+whoami = "美容、健康ヲタク。特に顔の筋トレ。自分を磨く手習い大好き。今はペン字、楽器、ガーデニング"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Tokyo, Japan"
+# organization = "Hugo"
+# link = "https://zzossig.io/ko"
 
 # sidebar
 enableBio = true

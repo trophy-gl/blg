@@ -1,5 +1,5 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "https://trophy-gl.github.io"
+title = "トロフィーガール"
 theme = "zzo"
 
 defaultContentLanguage = "en"
