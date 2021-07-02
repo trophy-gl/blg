@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - 足るを知る
+      - トロフィーガール
     subtitle:
-      - 質素とコツコツを愛しているわ
+      - エビデンスのある美容と健康とそのコスパを研究	
     titleColor: 
     titleShadow: true
     titleFontSize: 44

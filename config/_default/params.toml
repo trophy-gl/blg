@@ -1,6 +1,6 @@
-# logoText = "足るを知る"
+# logoText = "トロフィーガール"
 logoType = "short" # long, short
-description = "大家、株、不動産、ライフハック"
+description = "健康と美容と手習い"
 custom_css = []
 custom_js = []
 useFaviconGenerator = false # https://www.favicon-generator.org/
@@ -60,9 +60,9 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "矢倉 まり"
+myname = "トロフィーガール"
 # email = "~~@gmail.com"
-whoami = "2021年から大家。ITエンジニア。20代。"
+whoami = "健康・美容ヲタク。アトピー歴26年目。自律神経も失調してる。スキルを身につけるの大好き。近年はペン字と楽器とガーデニングと俳句。"
 bioImageUrl = ""
 useGravatar = false
 location = "Tokyo, Japan"
@@ -164,8 +164,8 @@ commento = false
   # email = "mailto:your@email.com"
   phone = ""
   # facebook = "http://example.org/"
-  twitter = "https://twitter.com/yagura_mari"
-  # github = "https://github.com/zzossig/hugo-theme-zzo"
+  twitter = "https://twitter.com/trophy_gl"
+  # github = "https://github.com/ /hugo-theme-zzo"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
