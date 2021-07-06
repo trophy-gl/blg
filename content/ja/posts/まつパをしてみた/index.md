@@ -20,7 +20,8 @@ categories:
 - まつげパーマ
 series:
 - おうちエステ
-image: images/posts/clip.png
+image: images/posts/matuge.jpg
+meta_image: images/posts/matuge.jpg
 ---
 
 # 概要

@@ -18,11 +18,12 @@ series:
 image: images/posts/clip.png
 meta_image: images/posts/clip.png
 ---
-<!-- どんな人に見せるのか？DIYをやっている人の参考になるように。いくらかかった？なにをした？詳細？ -->
+{{/* どんな人に見せるのか？DIYをやっている人の参考になるように。いくらかかった？なにをした？詳細？ */}}
 
 # 概要
 
 ## リビング
 ### ビフォー
+
 {{<tweet 1411605826972782598>}}
 {{< figure src="living2_b.jpg" alt="作業前のリビング中央" >}}
