@@ -1,5 +1,5 @@
 ---
-title: 
+title: test
 
 date: 2021-07-01T12:00:06+09:00
 description: 
@@ -16,6 +16,7 @@ categories:
 series:
 - 
 image: images/posts/clip.png
+meta_image: images/posts/clip.png
 ---
 <!-- どんな人に見せるのか？DIYをやっている人の参考になるように。いくらかかった？なにをした？詳細？ -->
 
@@ -23,4 +24,5 @@ image: images/posts/clip.png
 
 ## リビング
 ### ビフォー
+{{<tweet 1411605826972782598>}}
 {{< figure src="living2_b.jpg" alt="作業前のリビング中央" >}}
