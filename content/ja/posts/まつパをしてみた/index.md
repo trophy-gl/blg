@@ -17,7 +17,7 @@ tags:
 - 美容
 - 韓国コスメ
 categories:
-- まつげパーマ
+- まつげ
 series:
 - おうちエステ
 image: images/posts/matuge.jpg
