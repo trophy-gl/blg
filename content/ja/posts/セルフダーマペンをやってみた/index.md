@@ -19,6 +19,11 @@ series:
 - おうちエステ
 image: images/posts/masui.jpg
 meta_image: images/posts/masui.jpg
+# 炎症が長く続くと色素沈着する
+# https://twitter.com/trophy_gl/status/1380689571239763972
+# ニキビが今ある箇所にはNG
+# ダーマペンも30万、ニキビは病院へ
+# https://twitter.com/trophy_gl/status/1374895647430561794
 ---
 {{< figure src="masui.jpg" alt="麻酔クリーム" >}}
 
