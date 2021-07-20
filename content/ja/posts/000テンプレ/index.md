@@ -22,4 +22,4 @@ meta_image: images/posts/clip.png
 ## おわりに
 {{< figure src="" alt="" >}}
 
-[]({{< relref "\posts\テンプレ\index.md" >}})
+[]({{< relref "\posts\000テンプレ\index.md" >}})

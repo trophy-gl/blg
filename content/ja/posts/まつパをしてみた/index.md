@@ -23,10 +23,10 @@ series:
 image: images/posts/matuge.jpg
 meta_image: images/posts/matuge.jpg
 ---
+{{< figure src="/images/posts/matuge.jpg" alt="サムネイル" >}}
 
 # 概要
 韓国コスメのシルキーローズで自宅でまつげをパーマしてみた。1回230円とかなり安い！コスパ最強でした。1時間ほど格闘して施術完了。まつ毛が抜けるまで、つまり1ヶ月ほどはもちます。
-{{< figure src="package.jpg" alt="シルキーローズ" >}}
 
 ### こんなに簡単！ざっくり手順
 1. まつげを型のロットに貼り付ける
