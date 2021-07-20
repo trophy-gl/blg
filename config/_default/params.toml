@@ -3,7 +3,7 @@ logoType = "short" # long, short
 description = "健康と美容と手習い"
 custom_css = []
 custom_js = []
-useFaviconGenerator = false # https://www.favicon-generator.org/
+useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
@@ -62,7 +62,7 @@ typeIcon = "🎯"
 # whoami
 myname = "トロフィーガール"
 # email = "~~@gmail.com"
-whoami = "健康・美容ヲタク。アトピー歴26年目。自律神経も失調してる。スキルを身につけるの大好き。近年はペン字と楽器とガーデニングと俳句。"
+whoami = "もっと前から知りたかったことをまとめます。健康・美容ヲタク。アトピー歴26年目。自律神経失調。スキルを身につけるの大好き。近年はペン字と楽器とガーデニングと俳句。"
 bioImageUrl = ""
 useGravatar = false
 location = "Tokyo, Japan"
