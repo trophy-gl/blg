@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>不眠 on トロフィーガール</title>
+    <link>https://trophy-gl.github.io/tags/%E4%B8%8D%E7%9C%A0/</link>
+    <description>Recent content in 不眠 on トロフィーガール</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 20 Nov 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://trophy-gl.github.io/tags/%E4%B8%8D%E7%9C%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>【随時更新】医者にもらったアドバイスログ</title>
+        <link>https://trophy-gl.github.io/posts/%E9%9A%8F%E6%99%82%E6%9B%B4%E6%96%B0%E5%8C%BB%E8%80%85%E3%81%AB%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9%E3%83%AD%E3%82%B0/</link>
+        <pubDate>Sat, 20 Nov 2021 12:00:06 +0900</pubDate>
+        
+        <atom:modified>Sat, 20 Nov 2021 12:00:06 +0900</atom:modified>
+        <guid>https://trophy-gl.github.io/posts/%E9%9A%8F%E6%99%82%E6%9B%B4%E6%96%B0%E5%8C%BB%E8%80%85%E3%81%AB%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9%E3%83%AD%E3%82%B0/</guid>
+        <description>私は幼少期から皮膚科によくかかっています。 医者に掛かってない期間もぼちぼちありますが、一度悪化すると3年くらいは月1,2回のペースで通います</description>
+        
+        <dc:creator>トロフィーガール</dc:creator>
+        <media:content url="https://trophy-gl.github.ioimages/posts/karute.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://trophy-gl.github.ioimages/posts/karute.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>アトピー</category>
+            
+          
+            
+              <category>喘息</category>
+            
+          
+            
+              <category>不眠</category>
+            
+          
+        
+        
+          
+            
+              <category>肌</category>
+            
+          
+        
+        
+          
+            
+              <category>医者からのアドバイス</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
