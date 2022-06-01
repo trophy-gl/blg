@@ -258,4 +258,4 @@ meta_image: images/posts/zyosikai.jpg
 [プランのご案内｜スターリムジン東京](http://star-limo.jp/00_plan.html)
 
 # おわりに
-何か一つでもやってみたいことが見つかれば幸いです。
+楽しいアクティビティの組み合わせ、プランが思いついたらTwitterから教えてください^^
